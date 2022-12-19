@@ -1,0 +1,7 @@
+{
+	"clientId": "1053262464663441409",
+	"clientSecret": "qr6iSLAaTHVdTCAfD5WNC9rfuAe6foR0",
+	"port": 53134,
+	"dburl": "mongodb://localhost:27017/node-express-api",
+	"jstSecretKey": "mongodb://localhost:27017/node-express-api"
+}
